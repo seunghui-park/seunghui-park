@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffdbfe,100:ffcccc&height=120&text=Hello,%20this%20is%20Seunghui%20Park%20🙂&animation=fadeIn&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffdbfe,100:ffcccc&height=120&text=Hello,%20this%20is%20SeungHui%20Park%20🙂&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐣 About Me 🐣 </h2>  
