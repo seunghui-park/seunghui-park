@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FFB2FC&width=435&lines=Hi%2C+I'm+SeungHui+%E1%83%B1%CC%92%D5%9E+%CC%B3%E1%B4%97+%CC%AB+%E1%B4%97+%CC%B3%D5%9E%EA%92%B1)](https://git.io/typing-svg)
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffdbfe,100:ffcccc&height=120&text=Hello,%20this%20is%20SeungHui%20Park%20🙂&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐣 About Me 🐣 </h2>  
