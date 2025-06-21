@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐣 About Me 🐣 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요, 웹 프론트엔드 공부하는 박승희입니다! 반갑습니다 :) </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요, 웹 FE 공부하는 박승희입니다! 반갑습니다 :) </div>
     <h4>🏫 세종대학교 컴퓨터공학과 재학 (2022.03 ~ )</h4>
     <h4>💁🏻‍♀️ 세종대학교 제36대 컴퓨터공학과 부학생회장 (2024.01 ~ 2024.12)</h4>
     <h4>🖥️ 세종대학교 중앙개발 동아리 Alom (2024.01 ~ )</h4> : 15기 사무국장 & React 3팀 멘토
