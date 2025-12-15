@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FFB2FC&width=435&lines=Hi%2C+I'm+SeungHui+%E1%83%B1%CC%92%D5%9E+%CC%B3%E1%B4%97+%CC%AB+%E1%B4%97+%CC%B3%D5%9E%EA%92%B1)](https://git.io/typing-svg)
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐣 About Me 🐣 </h2>  
-<div style="font-weight: 700; font-size: 12px; text-align: left; color: #282d33;"> 안녕하세요, 웹 FE 공부하는 박승희입니다! 반갑습니다 :) </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=33B1F7&background=FFFFFF00&width=476&height=24&lines=Hi+I'm+SeungHui+%E2%97%A1%CC%88%E2%8B%86*;I'm+currently+studying+web+frontend+development!)](https://git.io/typing-svg)
 <h5>🏫 세종대학교 컴퓨터공학과 재학 <sub> (2022.03 ~ 2026.08)</sub></h5>
 <h5>💁🏻‍♀️ 세종대학교 제36대 컴퓨터공학과 부학생회장 <sub> (2024.01 ~ 2024.12)</sub></h4>
 <h5>🖥️ 세종대학교 중앙개발 동아리 Alom 15기 사무국장, React 3팀 멘토 <sub> (2024.01 ~ )</sub></h5>
